@@ -14,18 +14,52 @@ from PyQt5.QtWidgets import *
 import cv2, imutils
 import time
 import sys
-
+import socket    
+import pickle
+import cv2         
+ 
 
 
 class MyThread(QThread):
     frame_signal = pyqtSignal(QImage)
 
     def run(self):
-        self.cap = cv2.VideoCapture(0)
-        while self.cap.isOpened():
-            _,frame = self.cap.read()
-            frame = self.cvimage_to_label(frame)
-            self.frame_signal.emit(frame)
+        sock = socket.socket()         
+
+        port = 12343       
+        ip = '192.168.1.71'        
+        
+        # connect to the server on local computer 
+        sock.connect((ip, port)) 
+        prev_data = None
+        count = 0
+        while True:
+            data = sock.recv(4194304)
+
+            try:
+                if prev_data:
+                    data = prev_data + data
+
+                frame=pickle.loads(data)
+
+                frame = self.cvimage_to_label(frame['img'])
+                self.frame_signal.emit(frame)
+                prev_data = None
+
+            except Exception as e:
+                if e == 'pickle data was truncated':
+                    prev_data = None
+                
+                else:
+                    prev_data = None
+                # print(e)
+
+            count +=1
+
+        
+        # Close all windows
+        cv2.destroyAllWindows()
+        sock.close()   
     
     def cvimage_to_label(self,image):
         image = imutils.resize(image,width = 300)
@@ -176,7 +210,6 @@ class Ui_Dialog(QMainWindow):
 
     def default_img(self, img_holder, path):
         img = cv2.imread(path)
-
         self.show_image(img_holder, img)
 
     def show_image(self, img_holder, img):

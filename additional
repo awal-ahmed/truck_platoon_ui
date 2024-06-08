@@ -1,1 +1,3 @@
 Install: pip install opencv-python-headless
+
+pyuic5 -x truck.ui -o order_gui.py
