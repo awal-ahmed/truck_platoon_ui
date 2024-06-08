@@ -247,7 +247,7 @@
    <property name="geometry">
     <rect>
      <x>250</x>
-     <y>580</y>
+     <y>590</y>
      <width>221</width>
      <height>20</height>
     </rect>
@@ -370,7 +370,7 @@
    </property>
    <property name="font">
     <font>
-     <pointsize>13</pointsize>
+     <pointsize>12</pointsize>
      <weight>75</weight>
      <bold>true</bold>
      <stylestrategy>NoAntialias</stylestrategy>
@@ -403,7 +403,7 @@
    </property>
    <property name="font">
     <font>
-     <pointsize>13</pointsize>
+     <pointsize>12</pointsize>
      <stylestrategy>NoAntialias</stylestrategy>
     </font>
    </property>
@@ -434,7 +434,7 @@
    </property>
    <property name="font">
     <font>
-     <pointsize>13</pointsize>
+     <pointsize>12</pointsize>
      <weight>75</weight>
      <bold>true</bold>
      <stylestrategy>NoAntialias</stylestrategy>
@@ -467,7 +467,7 @@
    </property>
    <property name="font">
     <font>
-     <pointsize>13</pointsize>
+     <pointsize>12</pointsize>
      <stylestrategy>NoAntialias</stylestrategy>
     </font>
    </property>
@@ -498,7 +498,7 @@
    </property>
    <property name="font">
     <font>
-     <pointsize>13</pointsize>
+     <pointsize>12</pointsize>
      <weight>75</weight>
      <bold>true</bold>
      <stylestrategy>NoAntialias</stylestrategy>
@@ -531,7 +531,7 @@
    </property>
    <property name="font">
     <font>
-     <pointsize>13</pointsize>
+     <pointsize>12</pointsize>
      <stylestrategy>NoAntialias</stylestrategy>
     </font>
    </property>
@@ -562,7 +562,7 @@
    </property>
    <property name="font">
     <font>
-     <pointsize>13</pointsize>
+     <pointsize>12</pointsize>
      <stylestrategy>NoAntialias</stylestrategy>
     </font>
    </property>
@@ -593,7 +593,7 @@
    </property>
    <property name="font">
     <font>
-     <pointsize>13</pointsize>
+     <pointsize>12</pointsize>
      <weight>75</weight>
      <bold>true</bold>
      <stylestrategy>NoAntialias</stylestrategy>
@@ -626,7 +626,7 @@
    </property>
    <property name="font">
     <font>
-     <pointsize>13</pointsize>
+     <pointsize>12</pointsize>
      <stylestrategy>NoAntialias</stylestrategy>
     </font>
    </property>
@@ -657,7 +657,7 @@
    </property>
    <property name="font">
     <font>
-     <pointsize>13</pointsize>
+     <pointsize>12</pointsize>
      <weight>75</weight>
      <bold>true</bold>
      <stylestrategy>NoAntialias</stylestrategy>
@@ -690,7 +690,7 @@
    </property>
    <property name="font">
     <font>
-     <pointsize>13</pointsize>
+     <pointsize>12</pointsize>
      <weight>75</weight>
      <bold>true</bold>
      <stylestrategy>NoAntialias</stylestrategy>
@@ -723,7 +723,7 @@
    </property>
    <property name="font">
     <font>
-     <pointsize>13</pointsize>
+     <pointsize>12</pointsize>
      <stylestrategy>NoAntialias</stylestrategy>
     </font>
    </property>
@@ -754,7 +754,7 @@
    </property>
    <property name="font">
     <font>
-     <pointsize>13</pointsize>
+     <pointsize>12</pointsize>
      <weight>75</weight>
      <bold>true</bold>
      <stylestrategy>NoAntialias</stylestrategy>
@@ -787,7 +787,7 @@
    </property>
    <property name="font">
     <font>
-     <pointsize>13</pointsize>
+     <pointsize>12</pointsize>
      <stylestrategy>NoAntialias</stylestrategy>
     </font>
    </property>
@@ -818,7 +818,7 @@
    </property>
    <property name="font">
     <font>
-     <pointsize>13</pointsize>
+     <pointsize>12</pointsize>
      <stylestrategy>NoAntialias</stylestrategy>
     </font>
    </property>
@@ -849,7 +849,7 @@
    </property>
    <property name="font">
     <font>
-     <pointsize>13</pointsize>
+     <pointsize>12</pointsize>
      <weight>75</weight>
      <bold>true</bold>
      <stylestrategy>NoAntialias</stylestrategy>
@@ -882,7 +882,7 @@
    </property>
    <property name="font">
     <font>
-     <pointsize>13</pointsize>
+     <pointsize>12</pointsize>
      <weight>75</weight>
      <bold>true</bold>
      <stylestrategy>NoAntialias</stylestrategy>
@@ -915,7 +915,7 @@
    </property>
    <property name="font">
     <font>
-     <pointsize>13</pointsize>
+     <pointsize>12</pointsize>
      <weight>75</weight>
      <bold>true</bold>
      <stylestrategy>NoAntialias</stylestrategy>
@@ -948,7 +948,7 @@
    </property>
    <property name="font">
     <font>
-     <pointsize>13</pointsize>
+     <pointsize>12</pointsize>
      <stylestrategy>NoAntialias</stylestrategy>
     </font>
    </property>
@@ -979,7 +979,7 @@
    </property>
    <property name="font">
     <font>
-     <pointsize>13</pointsize>
+     <pointsize>12</pointsize>
      <stylestrategy>NoAntialias</stylestrategy>
     </font>
    </property>
@@ -1222,7 +1222,7 @@
    </property>
    <property name="font">
     <font>
-     <pointsize>13</pointsize>
+     <pointsize>12</pointsize>
      <weight>75</weight>
      <bold>true</bold>
      <stylestrategy>NoAntialias</stylestrategy>
@@ -1255,7 +1255,7 @@
    </property>
    <property name="font">
     <font>
-     <pointsize>13</pointsize>
+     <pointsize>12</pointsize>
      <stylestrategy>NoAntialias</stylestrategy>
     </font>
    </property>
@@ -1318,7 +1318,7 @@
    </property>
    <property name="font">
     <font>
-     <pointsize>13</pointsize>
+     <pointsize>12</pointsize>
      <stylestrategy>NoAntialias</stylestrategy>
     </font>
    </property>
@@ -1349,7 +1349,7 @@
    </property>
    <property name="font">
     <font>
-     <pointsize>13</pointsize>
+     <pointsize>12</pointsize>
      <stylestrategy>NoAntialias</stylestrategy>
     </font>
    </property>
@@ -1380,7 +1380,7 @@
    </property>
    <property name="font">
     <font>
-     <pointsize>13</pointsize>
+     <pointsize>12</pointsize>
      <weight>75</weight>
      <bold>true</bold>
      <stylestrategy>NoAntialias</stylestrategy>
@@ -1524,7 +1524,7 @@
    </property>
    <property name="font">
     <font>
-     <pointsize>13</pointsize>
+     <pointsize>12</pointsize>
      <stylestrategy>NoAntialias</stylestrategy>
     </font>
    </property>
@@ -1674,7 +1674,7 @@
    <property name="geometry">
     <rect>
      <x>1000</x>
-     <y>580</y>
+     <y>590</y>
      <width>221</width>
      <height>20</height>
     </rect>
@@ -1713,7 +1713,7 @@
    </property>
    <property name="font">
     <font>
-     <pointsize>13</pointsize>
+     <pointsize>12</pointsize>
      <stylestrategy>NoAntialias</stylestrategy>
     </font>
    </property>
@@ -1769,7 +1769,7 @@
    </property>
    <property name="font">
     <font>
-     <pointsize>13</pointsize>
+     <pointsize>12</pointsize>
      <stylestrategy>NoAntialias</stylestrategy>
     </font>
    </property>
@@ -1800,7 +1800,7 @@
    </property>
    <property name="font">
     <font>
-     <pointsize>13</pointsize>
+     <pointsize>12</pointsize>
      <weight>75</weight>
      <bold>true</bold>
      <stylestrategy>NoAntialias</stylestrategy>
@@ -1821,7 +1821,7 @@
     <rect>
      <x>1240</x>
      <y>500</y>
-     <width>140</width>
+     <width>130</width>
      <height>20</height>
     </rect>
    </property>
@@ -1833,7 +1833,7 @@
    </property>
    <property name="font">
     <font>
-     <pointsize>13</pointsize>
+     <pointsize>12</pointsize>
      <weight>75</weight>
      <bold>true</bold>
      <stylestrategy>NoAntialias</stylestrategy>
@@ -1917,7 +1917,7 @@
    </property>
    <property name="font">
     <font>
-     <pointsize>13</pointsize>
+     <pointsize>12</pointsize>
      <stylestrategy>NoAntialias</stylestrategy>
     </font>
    </property>
@@ -1948,7 +1948,7 @@
    </property>
    <property name="font">
     <font>
-     <pointsize>13</pointsize>
+     <pointsize>12</pointsize>
      <weight>75</weight>
      <bold>true</bold>
      <stylestrategy>NoAntialias</stylestrategy>
@@ -1981,7 +1981,7 @@
    </property>
    <property name="font">
     <font>
-     <pointsize>13</pointsize>
+     <pointsize>12</pointsize>
      <stylestrategy>NoAntialias</stylestrategy>
     </font>
    </property>
@@ -2012,7 +2012,7 @@
    </property>
    <property name="font">
     <font>
-     <pointsize>13</pointsize>
+     <pointsize>12</pointsize>
      <weight>75</weight>
      <bold>true</bold>
      <stylestrategy>NoAntialias</stylestrategy>
@@ -2070,7 +2070,7 @@
    </property>
    <property name="font">
     <font>
-     <pointsize>13</pointsize>
+     <pointsize>12</pointsize>
      <weight>75</weight>
      <bold>true</bold>
      <stylestrategy>NoAntialias</stylestrategy>
@@ -2103,7 +2103,7 @@
    </property>
    <property name="font">
     <font>
-     <pointsize>13</pointsize>
+     <pointsize>12</pointsize>
      <weight>75</weight>
      <bold>true</bold>
      <stylestrategy>NoAntialias</stylestrategy>
@@ -2136,7 +2136,7 @@
    </property>
    <property name="font">
     <font>
-     <pointsize>13</pointsize>
+     <pointsize>12</pointsize>
      <stylestrategy>NoAntialias</stylestrategy>
     </font>
    </property>
@@ -2167,7 +2167,7 @@
    </property>
    <property name="font">
     <font>
-     <pointsize>13</pointsize>
+     <pointsize>12</pointsize>
      <stylestrategy>NoAntialias</stylestrategy>
     </font>
    </property>
@@ -2309,7 +2309,7 @@
    </property>
    <property name="font">
     <font>
-     <pointsize>13</pointsize>
+     <pointsize>12</pointsize>
      <weight>75</weight>
      <bold>true</bold>
      <stylestrategy>NoAntialias</stylestrategy>
@@ -2358,7 +2358,7 @@
    </property>
    <property name="font">
     <font>
-     <pointsize>13</pointsize>
+     <pointsize>12</pointsize>
      <weight>75</weight>
      <bold>true</bold>
      <stylestrategy>NoAntialias</stylestrategy>
