@@ -873,7 +873,13 @@ class Ui_Dialog(QMainWindow):
         self.default_img(self.img_full, 'Images/220.png')
         self.default_img(self.img_sel, 'Images/220_resize.png')
         self.default_img(self.img_pred, 'Images/220_road_resize.png')
-        self.default_img(self.img_driv, 'Images/driv.jpg')
+        self.default_img(self.img_driv, 'Images/driv2.jpg')
+
+
+        self.default_img(self.img_full_2, 'Images/img2.png')
+        self.default_img(self.img_sel_2, 'Images/img2_resize.png')
+        self.default_img(self.img_pred_2, 'Images/img2_mask.png')
+        self.default_img(self.img_driv_2, 'Images/driv1.jpg')
         # self.update_info(self.img_driv)
         self.camera_thread = MyThread()
         self.camera_thread.frame_signal.connect(self.setImage)
@@ -881,7 +887,7 @@ class Ui_Dialog(QMainWindow):
 
     def retranslateUi(self, Dialog):
         _translate = QtCore.QCoreApplication.translate
-        Dialog.setWindowTitle(_translate("Dialog", "Dialog"))
+        Dialog.setWindowTitle(_translate("Dialog", "Truck Platoon Systems"))
         self.img_full.setText(_translate("Dialog", "Full view"))
         self.dname.setText(_translate("Dialog", "Driver 1"))
         self.img_sel.setText(_translate("Dialog", "Selected"))
